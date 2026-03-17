@@ -1,3 +1,5 @@
+⚠️ ***ESTE README FUE ESCRITO CON IA.***
+⚠️ ___THIS README WAS WRITTEN WITH AI.___
 # Calibrador-HSV-Simple
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
