@@ -7,7 +7,7 @@ from procesador import arreglo_a_PIL, procesamiento_base, selectorHSV
 class Calibrador:
     def __init__(self, vid):
         self.vid = vid
-        iu.ventana.protocol("WM_DELETE_WINDOW", self.terminar_ventana)
+        iu.ventana.protocol("WM_DELETE_WINDOW", self.cerrar_ventana)
         iu.ventana.after(15, self.actualizar_imagen)
 
     def iniciar(self):
